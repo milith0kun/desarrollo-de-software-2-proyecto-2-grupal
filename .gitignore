@@ -1,0 +1,19 @@
+# Binarios pesados
+*.rar
+
+# Flutter build artifacts inside project
+app_catalogo_grupo2/build/
+app_catalogo_grupo2/.dart_tool/
+app_catalogo_grupo2/.pub-cache/
+app_catalogo_grupo2/.pub/
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# OS
+.DS_Store
+Thumbs.db
